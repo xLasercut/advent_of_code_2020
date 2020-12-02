@@ -1,0 +1,26 @@
+{
+  "name": "advent_of_code_2020",
+  "version": "1.0.0",
+  "description": "Advent of code 2020",
+  "scripts": {
+    "compile": "node clean.js && tsc -b",
+    "d1p1": "npm run compile && node dist/day-one/puzzle-one.js",
+    "d1p2": "npm run compile && node dist/day-one/puzzle-two.js",
+    "d2p1": "npm run compile && node dist/day-two/puzzle-one.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xLasercut/advent_of_code_2020.git"
+  },
+  "author": "xLasercut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xLasercut/advent_of_code_2020/issues"
+  },
+  "homepage": "https://github.com/xLasercut/advent_of_code_2020#readme",
+  "dependencies": {
+    "@types/node": "^14.14.10",
+    "fs-extra": "^9.0.1",
+    "typescript": "^4.1.2"
+  }
+}
