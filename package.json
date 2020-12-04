@@ -7,7 +7,9 @@
     "d1p1": "npm run compile && node dist/day-one/puzzle-one.js",
     "d1p2": "npm run compile && node dist/day-one/puzzle-two.js",
     "d2p1": "npm run compile && node dist/day-two/puzzle-one.js",
-    "d2p2": "npm run compile && node dist/day-two/puzzle-two.js"
+    "d2p2": "npm run compile && node dist/day-two/puzzle-two.js",
+    "d3p1": "npm run compile && node dist/day-three/puzzle-one.js",
+    "d3p2": "npm run compile && node dist/day-three/puzzle-two.js"
   },
   "repository": {
     "type": "git",
