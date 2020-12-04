@@ -11,3 +11,7 @@
 - [Day Three](https://adventofcode.com/2020/day/3)
   - For puzzle one run `npm run d3p1`
   - For puzzle two run `npm run d3p2`
+
+- [Day Three](https://adventofcode.com/2020/day/4)
+  - For puzzle one run `npm run d4p1`
+  - For puzzle two run `npm run d4p2`
