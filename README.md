@@ -19,3 +19,7 @@
 - [Day Five](https://adventofcode.com/2020/day/5)
   - For puzzle one run `npm run d5p1`
   - For puzzle two run `npm run d5p2`
+
+- [Day Six](https://adventofcode.com/2020/day/6)
+  - For puzzle one run `npm run d6p1`
+  - For puzzle two run `npm run d6p2`
