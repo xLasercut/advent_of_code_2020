@@ -27,3 +27,7 @@
 - [Day Seven](https://adventofcode.com/2020/day/7)
   - For puzzle one run `npm run d7p1`
   - For puzzle two run `npm run d7p2`
+
+- [Day Eight](https://adventofcode.com/2020/day/8)
+  - For puzzle one run `npm run d8p1`
+  - For puzzle two run `npm run d8p2`
