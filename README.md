@@ -31,3 +31,7 @@
 - [Day Eight](https://adventofcode.com/2020/day/8)
   - For puzzle one run `npm run d8p1`
   - For puzzle two run `npm run d8p2`
+
+- [Day Nine](https://adventofcode.com/2020/day/9)
+  - For puzzle one run `npm run d9p1`
+  - For puzzle two run `npm run d9p2`
