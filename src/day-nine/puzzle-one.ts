@@ -20,13 +20,13 @@ const getInvalidNumber = (preamble: number, numbers: Array<number>): number => {
     let sumNumbers = numbers.slice(i - preamble, i)
 
     if (!isNumberValid(currentNumber, sumNumbers)) {
-      console.log(`First number that is invalid is: ${currentNumber}`)
       return currentNumber
     }
   }
 }
 
-getInvalidNumber(25, numbers)
+let invalidNumber = getInvalidNumber(25, numbers)
+console.log(`First number that is invalid is: ${invalidNumber}`)
 
 export {getInvalidNumber}
 
