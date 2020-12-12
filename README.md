@@ -35,3 +35,7 @@
 - [Day Nine](https://adventofcode.com/2020/day/9)
   - For puzzle one run `npm run d9p1`
   - For puzzle two run `npm run d9p2`
+
+- [Day Ten](https://adventofcode.com/2020/day/10)
+  - For puzzle one run `npm run d10p1`
+  - For puzzle two run `npm run d10p2`
