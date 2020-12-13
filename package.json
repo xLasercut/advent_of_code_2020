@@ -27,7 +27,9 @@
     "d11p1": "npm run compile && node dist/day-eleven/puzzle-one.js",
     "d11p2": "npm run compile && node dist/day-eleven/puzzle-two.js",
     "d12p1": "npm run compile && node dist/day-twelve/puzzle-one.js",
-    "d12p2": "npm run compile && node dist/day-twelve/puzzle-two.js"
+    "d12p2": "npm run compile && node dist/day-twelve/puzzle-two.js",
+    "d13p1": "npm run compile && node dist/day-thirteen/puzzle-one.js",
+    "d13p2": "npm run compile && node dist/day-thirteen/puzzle-two.js"
   },
   "repository": {
     "type": "git",

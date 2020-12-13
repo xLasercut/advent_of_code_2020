@@ -47,3 +47,7 @@
 - [Day Twelve](https://adventofcode.com/2020/day/12)
   - For puzzle one run `npm run d12p1`
   - For puzzle two run `npm run d12p2`
+
+- [Day Thirteen](https://adventofcode.com/2020/day/13)
+  - For puzzle one run `npm run d13p1`
+  - For puzzle two run `npm run d13p2`
