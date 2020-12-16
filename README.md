@@ -59,3 +59,7 @@
 - [Day Fifteen](https://adventofcode.com/2020/day/15)
   - For puzzle one run `npm run d15p1`
   - For puzzle two run `npm run d15p2`
+
+- [Day Sixteen](https://adventofcode.com/2020/day/16)
+  - For puzzle one run `npm run d16p1`
+  - For puzzle two run `npm run d16p2`
